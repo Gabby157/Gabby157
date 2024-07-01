@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Gabrielle Cesar</h1>
 <h3 align="center">I am exploring my interest in code from the U.S.</h3>
