@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabby157" alt="gabby157" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, HTML, Java, Figma**
+- 🌱 I’m recently earned a **Python Basics** certificate
 
 - 🤝 I’m looking for help with **Some cool coding projects to try**
 
