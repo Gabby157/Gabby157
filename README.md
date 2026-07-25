@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabby157" alt="gabby157" /></a> </p>
 
-- 🌱 I’m recently earned a **Python Basics** certificate
+- 🌱 I recently earned a **Python Basics** certificate
 
 - 🤝 I’m looking for help with **Some cool coding projects to try**
 
@@ -12,7 +12,14 @@
 <p align="left">
   <img width="250" src="https://readme-jokes.vercel.app/api">
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/gabrielle-cesar-22190b2aa" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="linkedin"
+         width="40"
+         height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
